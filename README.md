@@ -5,4 +5,4 @@ Repository for in class programming
 Data set used : downloaded Caltech101 and filtered for chair, headphones, and saxophone
 Approach : Used retrain inception model to train, dataset is divided into training and validation set
 Results : In training Train accuracy - 100.0%, cross entrophy - 0.02, and validation accuracy - 100.0%
-classification accuracy - chair = 0.92 , and headphone = 0.97
+classification score for chair, headphone are chair = 0.92 , and headphone = 0.97 respectively.
