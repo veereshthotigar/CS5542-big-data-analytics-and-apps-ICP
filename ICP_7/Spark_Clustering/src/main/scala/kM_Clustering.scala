@@ -10,11 +10,11 @@ object kM_Clustering {
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
     val sc = new SparkContext(sparkConf)
 
-    val features=sc.textFile("data/results.token")
+    val features=sc.textFile("data/wiki.txt")
       .map(f=>{
         val str=f.replaceAll(",","")
         val ff=f.split(" ")
-        ff.drop(1).toSeq
+        ff.toSeq
       })
       val hashingTF=new HashingTF()
 
@@ -25,7 +25,7 @@ object kM_Clustering {
     println("Within Set Sum of Squared Errors = " + WSSSE)
 
     val clusters=kMeansModel.predict(tf)
-    val out=new PrintStream("data/results.csv")
+    val out=new PrintStream("data/results_wiki.csv")
     features.zip(clusters).collect().foreach(f=>{
        out.println(f._2+","+f._1.mkString(" "))
       })

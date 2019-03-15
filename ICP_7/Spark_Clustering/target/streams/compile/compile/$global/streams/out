@@ -1,0 +1,17 @@
+[0m[[0m[31merror[0m] [0m[0m/home/vthotigar/gitrepo/CS5542-big-data-analytics-and-apps-ICP/ICP_7/Spark_Clustering/src/main/scala/EM_Clustering.scala:20:22: inferred type arguments [Unit] do not conform to method transform's type parameter bounds [D <: Iterable[_]][0m
+[0m[[0m[31merror[0m] [0m[0m    val tf=hashingTF.transform(features)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vthotigar/gitrepo/CS5542-big-data-analytics-and-apps-ICP/ICP_7/Spark_Clustering/src/main/scala/EM_Clustering.scala:20:32: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : org.apache.spark.api.java.JavaRDD[Unit][0m
+[0m[[0m[31merror[0m] [0m[0m required: org.apache.spark.api.java.JavaRDD[D][0m
+[0m[[0m[31merror[0m] [0m[0m    val tf=hashingTF.transform(features)[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vthotigar/gitrepo/CS5542-big-data-analytics-and-apps-ICP/ICP_7/Spark_Clustering/src/main/scala/kM_Clustering.scala:21:22: inferred type arguments [Unit] do not conform to method transform's type parameter bounds [D <: Iterable[_]][0m
+[0m[[0m[31merror[0m] [0m[0m    val tf=hashingTF.transform(features)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vthotigar/gitrepo/CS5542-big-data-analytics-and-apps-ICP/ICP_7/Spark_Clustering/src/main/scala/kM_Clustering.scala:21:32: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : org.apache.spark.api.java.JavaRDD[Unit][0m
+[0m[[0m[31merror[0m] [0m[0m required: org.apache.spark.api.java.JavaRDD[D][0m
+[0m[[0m[31merror[0m] [0m[0m    val tf=hashingTF.transform(features)[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
