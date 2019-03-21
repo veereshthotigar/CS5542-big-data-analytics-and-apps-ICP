@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9047a117-eec4-4714-abff-48ca3c17b2bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/cc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/results.token" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/resultsEM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6e129c17d6da014f6629$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6e129c17d6da014f6629.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6e129c17d6da014f6629.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/EM_Clustering.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/EM_Clustering.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/kM_Clustering.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/kM_Clustering.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/EM_Clustering$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/EM_Clustering$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/EM_Clustering$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/EM_Clustering$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
-    </list>
+    <list default="true" id="9047a117-eec4-4714-abff-48ca3c17b2bf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -124,7 +105,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552628519474" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552628538627" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
@@ -214,12 +195,20 @@
       <updated>1552594450703</updated>
       <workItem from="1552594452521" duration="1932000" />
       <workItem from="1552621360098" duration="174000" />
-      <workItem from="1552624175081" duration="3113000" />
+      <workItem from="1552624175081" duration="3363000" />
     </task>
+    <task id="LOCAL-00001" summary="ICP_7_screenshots">
+      <created>1552628456240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552628456240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5219000" />
+    <option name="totallyTimeSpent" value="5469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1299" height="743" extended-state="6" />
@@ -262,6 +251,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ICP_7_screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="ICP_7_screenshots" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/resultsEM.csv">
