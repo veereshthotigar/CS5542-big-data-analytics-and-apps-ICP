@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d614d51-773d-486d-aa25-10d2a57f5688" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ICP_7/Spark_Clustering/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP_7/Spark_Clustering/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7d614d51-773d-486d-aa25-10d2a57f5688" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +12,12 @@
     <SUITE FILE_PATH="coverage/ICP_8$autoencoder_clustering.coverage" NAME="autoencoder_clustering Coverage Results" MODIFIED="1553201588325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/autoencoder_clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="181" column="19" selection-start-line="181" selection-start-column="19" selection-end-line="181" selection-end-column="19" />
+            <state relative-caret-position="402">
+              <caret line="197" column="62" selection-start-line="197" selection-start-column="62" selection-end-line="197" selection-end-column="62" />
               <folding>
                 <element signature="e#150#173#0" expanded="true" />
               </folding>
@@ -30,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/lib/python3.6/dist-packages/matplotlib/markers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="3810">
               <caret line="267" column="27" selection-start-line="267" selection-start-column="21" selection-end-line="267" selection-end-column="27" />
               <folding>
                 <element signature="e#3736#3844#0" expanded="true" />
@@ -143,14 +141,16 @@
       <option name="presentableId" value="Default" />
       <updated>1553196809920</updated>
       <workItem from="1553196811921" duration="4807000" />
+      <workItem from="1553965051607" duration="607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4807000" />
+    <option name="totallyTimeSpent" value="5414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.023942538" />
@@ -179,22 +179,22 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/matplotlib/markers.py">
+    <entry file="file://$PROJECT_DIR$/autoencoder_clustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="267" column="27" selection-start-line="267" selection-start-column="21" selection-end-line="267" selection-end-column="27" />
+        <state relative-caret-position="402">
+          <caret line="197" column="62" selection-start-line="197" selection-start-column="62" selection-end-line="197" selection-end-column="62" />
           <folding>
-            <element signature="e#3736#3844#0" expanded="true" />
+            <element signature="e#150#173#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoencoder_clustering.py">
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/matplotlib/markers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="181" column="19" selection-start-line="181" selection-start-column="19" selection-end-line="181" selection-end-column="19" />
+        <state relative-caret-position="3810">
+          <caret line="267" column="27" selection-start-line="267" selection-start-column="21" selection-end-line="267" selection-end-column="27" />
           <folding>
-            <element signature="e#150#173#0" expanded="true" />
+            <element signature="e#3736#3844#0" expanded="true" />
           </folding>
         </state>
       </provider>
